@@ -2,8 +2,7 @@
 from socket import *
 import ctypes
 import struct
-import time
-import sys
+
 
 if len(sys.argv) != 3:
 	print("usage: ./hclt.py host port")
@@ -23,7 +22,7 @@ tcpCliSock = socket(AF_INET, SOCK_STREAM)
 tcpCliSock.connect(ADDR)
 
 测试
-cnt = 冲突测试;
+cnt = 测试kkkkkkkkkkkk冲突;
 测试2
 while 1:
 	ssize = 0
@@ -46,4 +45,5 @@ while 1:
     
 测试3
 tcpCliSock.close()
+测试4
 
