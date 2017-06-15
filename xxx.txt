@@ -3,7 +3,10 @@ from socket import *
 import ctypes
 import struct
 
+yyyyyyyy
 
+
+zzzzzzzzzzz
 if len(sys.argv) != 3:
 	print("usage: ./hclt.py host port")
 	sys.exit(-1)
