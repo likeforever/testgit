@@ -7,6 +7,7 @@ yyyyyyyy
 
 
 zzzzzzzzzzz
+xxx
 if len(sys.argv) != 3:
 	print("usage: ./hclt.py host port")
 	sys.exit(-1)
