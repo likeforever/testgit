@@ -5,6 +5,13 @@ import struct
 
 yyyyyyyy
 
+xxxxxxxxxxxxxxx#!/usr/bin/python
+from socket import *
+import ctypes
+import struct
+
+yyyyyyyy
+
 
 zzzzzzzzzzz
 xxx
