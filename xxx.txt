@@ -7,7 +7,7 @@ import struct
 if len(sys.argv) != 3:
 	print("usage: ./hclt.py host port")
 	sys.exit(-1)
-	
+	xxxxxxxxx
 isize=88
 idata = ctypes.create_string_buffer(isize)
 for index in range(0, isize):
